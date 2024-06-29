@@ -33,6 +33,8 @@ poetry install --no-root
 
 # 运行
 poetry run python main.py
+
+uvicorn main:app --reload
 ```
 
 ### 项目结构:

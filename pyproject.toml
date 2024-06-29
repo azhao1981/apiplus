@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "langchain-template"
+name = "apiplus"
 version = "0.1.0"
 description = ""
 authors = ["weiz <azhao.1981@gmail.com>"]
@@ -17,6 +17,6 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [[tool.poetry.source]]
-name = "langchain-template"
+name = "apiplus"
 url = "https://pypi.tuna.tsinghua.edu.cn/simple"
 priority = "primary"
